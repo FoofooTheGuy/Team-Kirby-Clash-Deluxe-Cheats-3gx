@@ -1,3 +1,5 @@
-set PATH=%PATH%;C:\devkitPro\devkitARM\bin;C:\devkitPro\msys\bin
-build.py
-
+@echo off
+make clean
+make
+rundll32 user32.dll,MessageBeep
+pause

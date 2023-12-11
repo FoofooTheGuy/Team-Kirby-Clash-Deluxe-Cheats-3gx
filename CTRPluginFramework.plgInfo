@@ -1,0 +1,25 @@
+Author: Slattz
+
+Version: # Plugin version
+    Major: 1
+    Minor: 2
+    Revision: 2
+
+Targets: # Low TitleId of games which are compatibles with this plugin (0 for all)
+
+Title: CTRPF - Blank Template
+
+Summary: A CTRPF Plugin, with a lot of tools
+
+Description: |
+  This is a rewrite of the plugin, originally made by Slattz, to modern CTRPF.
+
+  Features:
+    - Memory searcher
+    - Hex Editor
+    - Code creator
+    - Code import from file
+    - Action Replay engine with extra capabilities
+    - Super fast screenshot engine
+
+Compatibility: Any
